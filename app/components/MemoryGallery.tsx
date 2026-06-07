@@ -41,7 +41,7 @@ const memories = [
   {
     id: 5,
     title: 'That Lil Astronaut',
-    date: 'Ofcouse The Cutest Astronaut',
+    date: 'Ofc The Cutest Astronaut',
     image: '/memories/memory5.jpg',
     // description: 'You light up every room, every moment, every ordinary day.',
     rotate: -2,
